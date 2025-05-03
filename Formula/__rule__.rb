@@ -1,4 +1,4 @@
-class Rule < Formula
+class _Rule__ < Formula
     desc      "print 1d2state3neighbor cellular automata to your terminal. it looks cool ;)"
     homepage  "https://github.com/evapilotno17/__rule__"
     url       "https://github.com/evapilotno17/__rule__/archive/refs/tags/v1.tar.gz"
