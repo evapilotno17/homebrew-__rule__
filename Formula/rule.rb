@@ -8,7 +8,7 @@ class Rule < Formula
     depends_on "python@3.12"
   
     def install
-      bin.install "rule.py" => "rule"
+      bin.install "rule" => "rule"
     end
   
     test do
